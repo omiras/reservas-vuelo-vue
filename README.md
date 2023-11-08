@@ -8,6 +8,8 @@
 2. Fíjate en la demo que cuando la categoría es "First Class", esta aparece con la clase CSS .first-class aplicada
 3. Debes renderizar Vuelo cancelado o Vuelo confirmado en función de si el vuelo está cancelado o no. En princpio, solo hay un vuelo cancelado de todos los vuelos presentes
 
+[Demo de la app](https://omiras.github.io/reservas-vuelo-vue/)
+
 ## BONUS
 
 1. Crea un `<select>` que permita filtrar todos los vuelos por categoría. Recomendación: Crea una computed property e itera con v-for sobre ella, en vez de sobre la variable flightReservations
